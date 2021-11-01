@@ -1,8 +1,6 @@
 ### Hi there! I'm Valdir Pinheiro 👋
 
-- 🔭 I’m currently working on Front-End Devolpment with ReactJs
-- 🌱 I’m currently learning ReactJs / TypeScript / NodeJs
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as Front-End Devolpment with ReactJs
 
 </br>
 
