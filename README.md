@@ -5,17 +5,20 @@
 - ⚡ Fun fact: ...
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/valdirapn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdirapn&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdirapn&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
-
+  
 ###
   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
-
 ###
   
 <div> 
