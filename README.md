@@ -1,6 +1,6 @@
 ### Hi there! I'm Valdir Pinheiro 👋
 
-- 🔭 I’m currently working as Android Developer with Java and Kotlin
+- 📱 I’m currently working as Android Developer with Java and Kotlin
 - 🚀 I'm always looking for new chalenges and knowledge
 - 📚 Learning ReactJS | NodeJS | Kotlin and Java for Android
 
