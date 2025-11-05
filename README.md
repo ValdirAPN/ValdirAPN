@@ -2,7 +2,6 @@
 
 - 📱 I’m currently working as Android Developer with Kotlin Multiplatform, Jetpack Compose and SwiftUI at Globant
 - 🚀 I'm always looking for new chalenges improving my knowledge
-- 📚 Learning ReactJS | NodeJS | Kotlin and Java for Android
 
 </br>
 
